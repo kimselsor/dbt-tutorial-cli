@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: customers
-    description: One record per customer with fields from orders
+    description: One record per customer with fields from orders, updated
     columns:
       - name: customer_id
         tests:
